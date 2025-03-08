@@ -42,7 +42,7 @@
    - Expected Output :
      - The greatest: 87
      
-## 7. Write a program in Java to input 5 numbers from keyboard and find their sum and average. Go to the editor
+## 7. Write a program in Java to input 5 numbers from keyboard and find their sum and average
 - Test Data
    - Input the 5 numbers : 1 2 3 4 5
    - Expected Output :
